@@ -1457,7 +1457,7 @@
 	<key>ShowShellCommandInTitle</key>
 	<false/>
 	<key>TerminalType</key>
-	<string>xterm</string>
+	<string>xterm-256color</string>
 	<key>TextBoldColor</key>
 	<data>
 	YnBsaXN0MDDUAQIDBAUGKSpYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3AS
